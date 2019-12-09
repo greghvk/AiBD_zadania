@@ -1,0 +1,3 @@
+tb.csv metadata:
+Every row is the new illness cases for a given year (col year) in a given data range:
+[m/f][1-99][1-99]

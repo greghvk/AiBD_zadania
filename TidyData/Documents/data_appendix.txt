@@ -1,0 +1,5 @@
+In first cell of dana_analysis.ipynb the needs libraries are imported.
+In the second cell the function to change string xxxx to xx-xx
+Missing data is also dropped.
+In the next cell col names are cleared and melted into rows.
+

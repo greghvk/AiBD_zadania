@@ -1,0 +1,1 @@
+tb.csv in original importable file with data, described in metadata file. Transformations are described in data appendix and transformations are performed by data_analysis in command files. Result is saved in analysis data.
